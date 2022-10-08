@@ -5,7 +5,12 @@
 
 - 💬 Ask me about **Android , Kotlin , Java**
 
-- 📫  How to reach me : **faresmohamed123321@gmail.com**
+- 📫  How to reach me : Phone Call Or E-mail 
+
+<pre class="notranslate"><code>email : faresmohamed123321@gmail.com
+
+phone : +201156710070
+</code></pre>
 
 
 

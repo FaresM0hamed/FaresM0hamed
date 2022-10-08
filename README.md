@@ -1,4 +1,4 @@
-![Black and White Modern Linkedin Banner (2)](https://user-images.githubusercontent.com/114820994/194710628-1b291f35-637b-43fd-85de-ec76005d8e04.gif)]
+![Black and White Modern Linkedin Banner (2)](https://user-images.githubusercontent.com/114820994/194710628-1b291f35-637b-43fd-85de-ec76005d8e04.gif)
 <h1 align="center">Hi 👋, I'm Fares</h1>
 <h3 align="center">A passionate Android developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif">

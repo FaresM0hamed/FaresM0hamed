@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **Android , Kotlin , Java**
 
-- 📫 Email: **faresmohamed123321@gmail.com**
+- 📫  How to reach me : **faresmohamed123321@gmail.com**
 
-- 📫 phone: **+201156710070**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

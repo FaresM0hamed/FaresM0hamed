@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fares</h1>
 <h3 align="center">A passionate Android developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif">
 
 - 💬 Ask me about **Android , Kotlin , Java**
 

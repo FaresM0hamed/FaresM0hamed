@@ -7,7 +7,7 @@
 
 - 📫  How to reach me : Phone Call Or E-mail 
 
-<pre class="notranslate"><code>email : faresmohamed123321@gmail.com
+<pre class="notranslate"><code>email : dev.faresmohamed@gmail.com
 
 phone : +201156710070
 </code></pre>
